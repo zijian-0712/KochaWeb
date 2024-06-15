@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base:'/viteTest2/',
+  base:'/KochaWeb/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
