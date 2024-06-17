@@ -71,3 +71,4 @@ git push -u origin main
 ```
 ### 2. 可以使用SSH代理服务
 代替HTTPS解决连接失败的问题
+### 3. 可以只部署，不上传源码
